@@ -10,10 +10,7 @@ I hope that this code isn't too messy. XD
 - [@Bammcool](https://www.github.com/bammcool2011)
 - [@Long](https://github.com/Long104)
 
-‎
-‎
-‎
-‎
+# MAIN SECTION
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
