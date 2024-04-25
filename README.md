@@ -1,3 +1,17 @@
+# INTRO
+Dear visitor,
+
+This project is a practice in creating a website with React (NextJS). The website will serve as my portfolio or profile in the future.
+
+I hope that this code isn't too messy. XD
+
+## Contribution
+
+- [@Bammcool](https://www.github.com/bammcool2011)
+- [@Long](https://github.com/Long104)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
